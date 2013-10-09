@@ -13,7 +13,7 @@ using namespace std;
 
 int main()
 {
-	cout << "Course: ENGR 230\nDescription: Programming Engineering Applications in C++\nInstructor: Steven Portscheller\nOffice: 318D/nPhone: (309) 694-8449\nEmail: steven.portscheller@icc.edu\n";
+	cout << "Course: ENGR 230\nDescription: Programming Engineering Applications in C++\nInstructor: Steven Portscheller\nOffice: 318D\nPhone: (309) 694-8449\nEmail: steven.portscheller@icc.edu\n";
 	system("pause");
 	return 0;
 }
